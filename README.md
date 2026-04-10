@@ -8,7 +8,7 @@ A simple and elegant web application that provides real-time character counting 
 - **Clean interface**: Minimalist design with a focus on usability
 
 ## Live Demo 🌐
-Check out the live version here: [https://iam269.github.io/Live-Character-Count/](https://iam269.github.io/Live-Character-Count/)
+Check out the live version here: [https://itsiamdev.github.io/Live-Character-Count/](https://itsiamdev.github.io/Live-Character-Count/)
 
 ## How to Use 💡
 1. Open the application in your web browser
